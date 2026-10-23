@@ -368,6 +368,17 @@ Display a saved screenshot in your README using Markdown:
 ![Feature Correlation Heatmap](screenshots/02_correlation_heatmap.png)
 ```
 
+
+
+
+### 📊 class_distribution
+
+<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/26435722-ec86-4b19-a171-ee64f516dc0c" />
+
+
+
+
+
 📌 **Important:** Add only screenshots that you have actually generated and committed to your GitHub repository. Ensure the image filenames and folder paths match exactly.
 
 
