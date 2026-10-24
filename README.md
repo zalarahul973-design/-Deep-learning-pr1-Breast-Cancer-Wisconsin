@@ -1,3 +1,5 @@
+
+
 # 🩺 Breast Cancer Classification Using Deep Learning
 
 <p align="center">
@@ -17,7 +19,8 @@
 </p>
 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88f1621c-483d-4679-9dfd-3a5887beee34" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/104e5330-c598-4ad9-a805-a280ba84bc7e" />
+
 
 
 
