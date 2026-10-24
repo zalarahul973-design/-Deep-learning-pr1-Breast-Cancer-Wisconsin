@@ -346,7 +346,7 @@ Save your actual screenshots in the following folder structure:
 ```text
 project/
 ├── README.md
-├── notebook.ipynb
+├── Breast Cancer Wisconsin.ipynb
 └── screenshots/
     ├── 01_class_distribution.png
     ├── 02_correlation_heatmap.png
