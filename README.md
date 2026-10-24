@@ -371,7 +371,7 @@ project/
 
 
 
-### Correlation_heatmap
+### 🔥 Correlation Heatmap
 
 <img width="1472" height="1190" alt="image" src="https://github.com/user-attachments/assets/afd6c29f-09cf-4186-80e9-11111cea8235" />
 
@@ -380,7 +380,7 @@ project/
 
 
 
-### Slp_training_curves
+### 📉 SLP Training Curves
 
 <img width="1489" height="495" alt="image" src="https://github.com/user-attachments/assets/2d27f965-c91a-4084-88ef-d79b2435d32d" />
 
@@ -391,7 +391,7 @@ project/
 
 
 
-### Mlp_training_curves
+### 📈 MLP Training Curves
 
 <img width="1790" height="495" alt="image" src="https://github.com/user-attachments/assets/b83e19b0-7ee8-4966-bdb1-b9403e18b76f" />
 
@@ -399,7 +399,7 @@ project/
 
 
 
-### Early_stopping
+### ⏹️ Early Stopping
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/e671226d-4a23-42b6-903d-51c98a57ff1f" />
 
@@ -408,8 +408,7 @@ project/
 
 
 
-
-### Dropout_comparison
+### 💧 Dropout Comparison
 
 <img width="1790" height="495" alt="image" src="https://github.com/user-attachments/assets/b83e19b0-7ee8-4966-bdb1-b9403e18b76f" />
 
@@ -418,14 +417,14 @@ project/
 
 
 
-### Regularization_comparison
+### 🛡️ Regularization Comparison
 
 <img width="1789" height="495" alt="image" src="https://github.com/user-attachments/assets/dc2979e5-5e45-4da2-b6c8-d2c55c849d58" />
 
 
 
 
-###  Model_comparison  Evaluate all three regularized models
+### 🏆 Model Comparison — Evaluate All Three Regularized Models
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2ec295da-9b4a-4712-8c71-6d83a54218e9" />
 
