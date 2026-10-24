@@ -358,22 +358,76 @@ project/
     └── 08_model_comparison.png
 ```
 
-### 🔥 Example: Feature Correlation Heatmap
-
-Display a saved screenshot in your README using Markdown:
-
-```markdown
-## 🔥 Feature Correlation Heatmap
-
-![Feature Correlation Heatmap](screenshots/02_correlation_heatmap.png)
-```
 
 
 
 
-### 📊 class_distribution
+
+### 📊 Class_distribution
 
 <img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/26435722-ec86-4b19-a171-ee64f516dc0c" />
+
+
+
+
+
+### Correlation_heatmap
+
+<img width="1472" height="1190" alt="image" src="https://github.com/user-attachments/assets/afd6c29f-09cf-4186-80e9-11111cea8235" />
+
+
+
+
+
+
+### Slp_training_curves
+
+<img width="1489" height="495" alt="image" src="https://github.com/user-attachments/assets/2d27f965-c91a-4084-88ef-d79b2435d32d" />
+
+
+
+
+
+
+
+
+### Mlp_training_curves
+
+<img width="1790" height="495" alt="image" src="https://github.com/user-attachments/assets/b83e19b0-7ee8-4966-bdb1-b9403e18b76f" />
+
+
+
+
+
+### Early_stopping
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/e671226d-4a23-42b6-903d-51c98a57ff1f" />
+
+
+
+
+
+
+
+### Dropout_comparison
+
+<img width="1790" height="495" alt="image" src="https://github.com/user-attachments/assets/b83e19b0-7ee8-4966-bdb1-b9403e18b76f" />
+
+
+
+
+
+
+### Regularization_comparison
+
+<img width="1789" height="495" alt="image" src="https://github.com/user-attachments/assets/dc2979e5-5e45-4da2-b6c8-d2c55c849d58" />
+
+
+
+
+###  Model_comparison  Evaluate all three regularized models
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2ec295da-9b4a-4712-8c71-6d83a54218e9" />
 
 
 
